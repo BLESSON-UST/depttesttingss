@@ -1,0 +1,7 @@
+server:
+  port: 9002
+Spring:
+  application:
+    name: DEPARTMENT-SERVICE
+  zipkin:
+    base-uri: http://127.0.0.1:9411/
